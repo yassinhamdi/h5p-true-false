@@ -48,7 +48,7 @@
         },
         {
           "label": "Text for \"Submit\" button",
-          "default": "Submit"
+          "default": "إرسال"
         },
         {
           "label": "زر نص \"مشاهدة الحل\"",
@@ -68,15 +68,15 @@
         },
         {
           "label": "عرض كتابي للنتيجه لمستخدمي القارئ المتكلم",
-          "default": "You got :num out of :total points"
+          "default": "لقد حصلت على :num من :total"
         },
         {
           "label": "Assistive technology description for \"Check\" button",
-          "default": "Check the answers. The responses will be marked as correct, incorrect, or unanswered."
+          "default": "تحقق من الإجابات. سيتم وضع علامة على الإجابات بأنها صحيحة أو غير صحيحة أو لم تتم الإجابة عليها."
         },
         {
           "label": "Assistive technology description for \"Show Solution\" button",
-          "default": "Show the solution. The task will be marked with its correct solution."
+          "default": "أظهر الحل. سيتم تمييز المهمة بالحل الصحيح لها."
         },
         {
           "label": "وصف التقنية المساعدة لزر إعادة المحاولة",
@@ -104,11 +104,11 @@
           "label": "Show confirmation dialog on \"Retry\""
         },
         {
-          "label": "Automatically check answer",
-          "description": "Note that accessibility will suffer if enabling this option"
+          "label": "التحقق تلقائيا من الإجابة",
+          "description": "يؤدي تمكين هذا الخيار إلى معاناة إمكانية الوصول ، و يجب التأكد من معرفة ما الذي يقوم بفعله"
         },
         {
-          "label": "Feedback on correct answer",
+          "label": "ردود الفعل على الإجابة الصحيحة",
           "description": "This will override the default feedback text. Variables available: @score and @total"
         },
         {
@@ -122,15 +122,15 @@
       "fields": [
         {
           "label": "Header text",
-          "default": "Finish ?"
+          "default": "الانتهاء منه ؟"
         },
         {
           "label": "النص الأساسي",
-          "default": "Are you sure you wish to finish ?"
+          "default": "هل أنت متأكد أنك ترغب في الانتهاء ؟"
         },
         {
           "label": "Cancel button label",
-          "default": "Cancel"
+          "default": "إلغاء"
         },
         {
           "label": "Confirm button label",
@@ -143,19 +143,19 @@
       "fields": [
         {
           "label": "Header text",
-          "default": "Retry ?"
+          "default": "إعادة المحاولة ؟"
         },
         {
           "label": "النص الأساسي",
-          "default": "Are you sure you wish to retry ?"
+          "default": "هل أنت متأكد أنك ترغب في إعادة المحاولة؟"
         },
         {
           "label": "Cancel button label",
-          "default": "Cancel"
+          "default": "إلغاء"
         },
         {
           "label": "Confirm button label",
-          "default": "Confirm"
+          "default": "تأكيد"
         }
       ]
     }
